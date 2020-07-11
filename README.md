@@ -14,7 +14,7 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-## How to generate a vue crup application for a api platfrom resource:
+## How to generate a vue crud application for a api platfrom resource:
 
 ``` bash
 vue init webpack-simple my-app
